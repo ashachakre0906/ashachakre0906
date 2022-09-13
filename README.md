@@ -1,7 +1,7 @@
 ### Hi there, I'm Asha Chakre 👋
 ## About me
 I am an Aspiring full stack software developer will be soon graduating from UC Berkely Extension, Coding BootCamp 🎉 
-My background is in Electronics and Telecommunication engineering.I am super excited to work in software development industry and further leverage my unique fulla stack skills.
+My background is in Electronics and Telecommunication engineering.I am super excited to work in software development industry and further leverage my unique full stack skills.
 
 - 🎯  I’m currently working on my project assignments given by UC Berkely Extension, Coding Bootcamp
 - 🌱 I’m currently learning Data Structures and Algorithms from leetcode.
