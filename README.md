@@ -14,11 +14,14 @@ My background is in Electronics and Telecommunication engineering.I am super exc
   </a>
  <a href="mailto:chourpagar.asha@gmail.com" target="blank"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="image of an envelope" height="30" width="40" /></a>
 </p>
-Languages and Tools:
-
+<h3>Languages and Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-
+    <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
+    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5badge"/>
+    <img src = "https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS badge"/>
     
-    </p>
+</p>
+
+
+
+
