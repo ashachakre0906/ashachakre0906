@@ -6,7 +6,8 @@ My background is in Electronics and Telecommunication engineering.I am super exc
 - 🎯  I’m currently working on building full stack apps and participating in freelancing projects.
 - 🌱 I’m currently learning Data Structures and Algorithms from LeetCode,CodeSignal and FreeCodeCamp.
 - 😄 Pronouns: She/her
-- 📫 Connect with me !
+- 📫 Connect with me:
+- ⚡ Fun fact: I always like to learn new technology.
 <p>
 <a href="https://www.linkedin.com/in/ashachakre">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
