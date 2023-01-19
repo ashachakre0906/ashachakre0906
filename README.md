@@ -4,7 +4,7 @@ I am an Aspiring full stack software developer graduated from UC Berkely Extensi
 My background is in Electronics and Telecommunication engineering.I am super excited to work in software development industry and further leverage my unique full stack skills.
 
 - 🎯  I’m currently working on building full stack apps and participating in freelancing projects.
-- 🌱 I’m currently learning Data Structures and Algorithms from LeetCode,CodeSignal and FreeCodeCamp.
+- 🌱 I’m currently learning Data Structures and Algorithms from LeetCode, CodeSignal and FreeCodeCamp.
 - 😄 Pronouns: She/her
 - 📫 Connect with me:
 - ⚡ Fun fact: I always like to learn new technology.
